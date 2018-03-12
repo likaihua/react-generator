@@ -1,0 +1,19 @@
+{
+  "name": "react-generator",
+  "version": "1.0.0",
+  "description": "一个超完美的React服务端渲染开发环境",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likaihua/react-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likaihua/react-generator/issues"
+  },
+  "homepage": "https://github.com/likaihua/react-generator#readme"
+}
